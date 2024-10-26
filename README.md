@@ -5,7 +5,7 @@ This repository contains a dataset related to eye disease. The data was sourced 
 ## Dataset Overview
 
 - **Dataset Name**: eye_diseases_classification
-- **Source**: Kaggle [here](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification/data)
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification/data)
 - **Description**: The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma retinal images where each class have approximately 1000 images. These images are collected from various sorces like IDRiD, Oculur recognition, HRF etc.
 
 ### Files Included
