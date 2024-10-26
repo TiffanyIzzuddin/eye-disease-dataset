@@ -1,4 +1,4 @@
-# [Dataset Name]
+# Eye Disease
 
 This repository contains a dataset related to [Dataset Topic]. The data was sourced from [Kaggle Dataset Name] on Kaggle.
 
